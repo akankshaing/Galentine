@@ -1,7 +1,6 @@
 # 🌸 "Be My Galentine?" Interactive Page
 
 A playful, static webpage crafted to spread love and laughter among friends on Galentine’s Day (February 13)! Features a bold prompt — “Will You Be My Galentine?” — with emoji-embellished **Yes / No** buttons.
-
 ---
 
 ## 🎯 Purpose
